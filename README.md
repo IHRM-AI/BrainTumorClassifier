@@ -142,10 +142,3 @@ Open issues for bugs or feature requests.
 - **Maintainer:** Ishan @ IHRM-AI
 
 ---
-
-## 📥 Download
-
-To download this README, simply copy the content above and save it as `README.md` in your project root, or  
-[Download the latest version from GitHub](https://github.com/IHRM-AI/BrainTumorClassifier/blob/main/README.md) (after you push it to your repo).
-
----
