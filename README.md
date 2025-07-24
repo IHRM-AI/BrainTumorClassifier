@@ -99,10 +99,12 @@ streamlit run app/app.py
 
 ## Login Screenshot
 ![User Input Form](images/screenshot3.png)
+
 ## App UI Screenshot
-![User Input Form](images/screenshot1.png)
+![User Input Form](images/Screenshot1.png)
+
 ## Prediction Output Screenshot
-![Prediction Result](images/screenshot2.png)
+![Prediction Result](images/Screenshot2.png)
 ---
 
 ## 📝 Usage
