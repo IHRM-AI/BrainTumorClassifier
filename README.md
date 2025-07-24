@@ -98,7 +98,7 @@ streamlit run app/app.py
 4. Make sure all dependencies are in `requirements.txt`.
 
 ## Login Screenshot
-![User Input Form](images/screenshot3.png)
+![User Input Form](images/Screenshot3.png)
 
 ## App UI Screenshot
 ![User Input Form](images/Screenshot1.png)
